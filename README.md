@@ -1,5 +1,9 @@
 # github-core-clone-01 — a GitHub-compatible git forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/ZulkifliMohamad/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/ZulkifliMohamad/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 [![owner](https://img.shields.io/badge/owner-ZulkifliMohamad-blue)](https://github.com/ZulkifliMohamad)
 [![entry](https://img.shields.io/badge/make.fun-github--core--clone--01-green)](https://make.fun/bounty/github-core-clone-01)
 [![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
